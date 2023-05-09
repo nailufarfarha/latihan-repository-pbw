@@ -8,12 +8,6 @@ h1,
   color: green;
 }
 
-:link {
-  color: red;
-}
-:visited {
-  color: green;
-}
 a:hover {
   color: yellow;
 }
