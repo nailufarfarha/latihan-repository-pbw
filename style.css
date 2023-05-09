@@ -1,0 +1,53 @@
+h1,
+.cth,
+#rekom {
+  color: green;
+}
+
+.container #tes {
+  color: green;
+}
+
+:link {
+  color: red;
+}
+:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
+a:active {
+  color: rgb(0, 38, 255);
+}
+
+.container {
+  font-size: 20px;
+  /* padding-top: 40px;
+  padding-right: 25px;
+  padding-bottom: 30px;
+  padding-left: 25px; */
+  padding: 40px 25px 30px 25px;
+  border: 1px solid black;
+  /* margin-top: 20px;
+  margin-left: 40px;
+  margin-bottom: 20px; */
+  margin: 20px 0px 20px 40px;
+}
+
+.em {
+  font-size: 1.2em;
+}
+
+.rem {
+  font-size: 1.2rem;
+}
+
+/* p {
+  text-decoration: none;
+  line-height: 2rem;
+} */
+
+body {
+  text-align: justify;
+}
